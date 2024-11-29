@@ -1,0 +1,29 @@
+.unauthorized {
+  text-align: center;
+  padding: 40px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.unauthorized h1 {
+  color: #dc3545;
+  margin-bottom: 20px;
+}
+
+.unauthorized p {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.unauthorized button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.unauthorized button:hover {
+  background-color: #0056b3;
+} 
